@@ -1,18 +1,18 @@
----
-title: Alex Hubers
----
+<img src="https://cs.uiowa.edu/sites/cs.uiowa.edu/files/styles/square__768_x_768/public/2021-06/alexander_hubers.jpg?h=cb5f1436&itok=i8anvSFS" width="200" height="200">
 
-# Me
-I like programming languages and type theory. I am a member of the
-[Computational Logic Center](https://clc.cs.uiowa.edu/site/) at the University
-of Iowa. I am trying to get a PhD here.
+
+## My name is Alex Hubers, and
+I am getting a PhD in Computer Science at the University of Iowa. I like
+programming languages and type theory. I am a member of the [Computational Logic
+Center](https://clc.cs.uiowa.edu/site/).
 
 My current research interests are in elementary strong functional programming
 (with Dr. Aaron Stump, Co-Advisor), partial type constructors, and extensible
 data types (with Dr. J. Garrett Morris, Co-Advisor).
 
-This page was generated with [pandoc](https://pandoc.org/). My Base64 encoded
-email is
+### Contact
+
+My Base64 encoded email is
 
 ```
 YWh1YmVyc0B1aW93YS5lZHU=
@@ -20,11 +20,11 @@ YWh1YmVyc0B1aW93YS5lZHU=
 
 Here is my [github](github.com/ahubers).
 
-# Writing & Publications
-## In Programming Languages (PL)
+## Writing & Publications
+### In Programming Languages (PL)
 - I'm workin' on it!
 
-## In Human-Robot Interaction (HRI)
+### In Human-Robot Interaction (HRI)
 - Bowen-Biggs, L., Dazo, S., Zhang, Y., Hubers, A., Rueben, M., Sowell, R. T.,
   Smart, W. D., & Grimm, C. (2016). Sketched floor plans versus SLAM maps: A
   comparison. [arxiv:1606.04836](https://arxiv.org/abs/1606.04836)
@@ -34,7 +34,7 @@ Here is my [github](github.com/ahubers).
   Science(), vol 9388. Springer,
   Cham. [arXiv:1501.03188](https://arxiv.org/abs/1501.03188)
 
-## Misc
+### Misc. Reports
 - [Encoding The Ordinals in
   Cedille](https://github.com/ahubers/cedille-ordinals/blob/master/Ordinals.pdf).
 - [Pure Functional Encodings of the Expression
@@ -42,6 +42,6 @@ Here is my [github](github.com/ahubers).
   Exam Report (Spring 2022).
 
 
-# Teaching Experience
+## Teaching Experience
 - Spring '22. CS:3820 - Programming Language Concepts, Teaching Assistant.
 - Spring '21. CS:3820 - Programming Language Concepts, Teaching Assistant.
