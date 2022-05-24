@@ -29,7 +29,7 @@ Here is my [github](github.com/ahubers).
   Smart, W. D., & Grimm, C. (2016). Sketched floor plans versus SLAM maps: A
   comparison. [arxiv:1606.04836](https://arxiv.org/abs/1606.04836)
 - Hubers, A. et al. (2015). Using Video Manipulation to Protect Privacy in
-  Remote Presence Systems. In: Tapus, A., André, E., Martin, JC., Ferland, F.,
+  Remote Presence Systems. In: Tapus, A., Andre, E., Martin, JC., Ferland, F.,
   Ammi, M. (eds) Social Robotics. ICSR 2015. Lecture Notes in Computer
   Science(), vol 9388. Springer,
   Cham. [arXiv:1501.03188](https://arxiv.org/abs/1501.03188)
@@ -38,7 +38,7 @@ Here is my [github](github.com/ahubers).
 - [Encoding The Ordinals in
   Cedille](https://github.com/ahubers/cedille-ordinals/blob/master/Ordinals.pdf).
 - [Pure Functional Encodings of the Expression
-  Problem](https://github.com/ahubers/cedille-ordinals/blob/main/Pure-Functional-Encodings-of-the-Expression-Problem.pdf). Qualifying
+  Problem](/Pure-Functional-Encodings-of-the-Expression-Problem.pdf). Qualifying
   Exam Report (Spring 2022).
 
 
