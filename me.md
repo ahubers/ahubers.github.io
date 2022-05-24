@@ -45,5 +45,6 @@ Here is my [github](github.com/ahubers).
 
 
 ## Teaching Experience
-- Spring '22. CS:3820 - Programming Language Concepts, Teaching Assistant.
-- Spring '21. CS:3820 - Programming Language Concepts, Teaching Assistant.
+- Spring '22. **Teaching Assistant** for CS:3820 - Programming Language Concepts, University of Iowa.
+- Spring '21. **Teaching Assistant** for CS:3820 - Programming Language Concepts, University of Iowa.
+- Fall '20. **Co-Instructor** for STA:223 - Introduction to Data Science, Cornell College.
