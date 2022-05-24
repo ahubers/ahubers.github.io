@@ -1,10 +1,10 @@
-<img src="https://cs.uiowa.edu/sites/cs.uiowa.edu/files/styles/square__768_x_768/public/2021-06/alexander_hubers.jpg?h=cb5f1436&itok=i8anvSFS" width="200" height="200">
+<p style="text-align:center;"><img src="https://cs.uiowa.edu/sites/cs.uiowa.edu/files/styles/square__768_x_768/public/2021-06/alexander_hubers.jpg?h=cb5f1436&itok=i8anvSFS" width="200" height="200"></p>
 
 
 ## My name is Alex Hubers, and
-I am getting a PhD in Computer Science at the University of Iowa. I like
-programming languages and type theory. I am a member of the [Computational Logic
-Center](https://clc.cs.uiowa.edu/site/).
+I am getting a PhD in Computer Science at the University of Iowa, where I'm a member
+ of the [Computational Logic Center](https://clc.cs.uiowa.edu/site/). I like (functional)
+ programming languages, semantics, and type theory.
 
 My current research interests are in elementary strong functional programming
 (with Dr. Aaron Stump, Co-Advisor), partial type constructors, and extensible
