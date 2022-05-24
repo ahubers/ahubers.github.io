@@ -1,4 +1,6 @@
-<p style="text-align:center;"><img src="https://cs.uiowa.edu/sites/cs.uiowa.edu/files/styles/square__768_x_768/public/2021-06/alexander_hubers.jpg?h=cb5f1436&itok=i8anvSFS" width="200" height="200"></p>
+<p style="text-align:center;">
+  <img style="border-radius: 50%" src="https://cs.uiowa.edu/sites/cs.uiowa.edu/files/styles/square__768_x_768/public/2021-06/alexander_hubers.jpg?h=cb5f1436&itok=i8anvSFS" width="200" height="200">
+</p>
 
 
 ## My name is Alex Hubers, and
