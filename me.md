@@ -37,8 +37,6 @@ Here is my [github](github.com/ahubers).
   Cham. [arXiv:1501.03188](https://arxiv.org/abs/1501.03188)
 
 ### Misc. Reports
-- [Encoding The Ordinals in
-  Cedille](https://github.com/ahubers/cedille-ordinals/blob/master/Ordinals.pdf).
 - [Pure Functional Encodings of the Expression
   Problem](/Pure-Functional-Encodings-of-the-Expression-Problem.pdf). Qualifying
   Exam Report (Spring 2022).
