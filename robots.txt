@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ahubers.github.io/sitemap.xml
