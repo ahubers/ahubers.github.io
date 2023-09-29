@@ -1,0 +1,75 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hubers and Morris(2023)]{HubersM23}
+Alex Hubers and J.~Garrett Morris.
+\newblock Generic programming with extensible data types; or, making ad hoc
+  extensible data types less ad hoc.
+\newblock ICFP 23, 2023.
+
+\bibitem[Jones(1992)]{Jones92}
+Mark~P. Jones.
+\newblock A theory of qualified types.
+\newblock In Bernd~K. Bruckner, editor, \emph{Proceedings of the 4th European
+  symposium on programming}, volume 582 of \emph{ESOP'92}. Springer-Verlag,
+  Rennes, France, 1992.
+
+\bibitem[Leijen(2005)]{Leijen05}
+Daan Leijen.
+\newblock Extensible records with scoped labels.
+\newblock In \emph{Revised Selected Papers from the Sixth Symposium on Trends
+  in Functional Programming, {TFP} 2005, Tallinn, Estonia, 23-24 September
+  2005}, pages 179--194, 2005.
+
+\bibitem[Leroy(2009)]{leroy09}
+Xavier Leroy.
+\newblock Formal verification of a realistic compiler.
+\newblock \emph{Commun. {ACM}}, 52\penalty0 (7):\penalty0 107--115, 2009.
+\newblock \doi{10.1145/1538788.1538814}.
+\newblock URL \url{https://doi.org/10.1145/1538788.1538814}.
+
+\bibitem[Morris and McKinna(2019)]{MorrisM19}
+J.~Garrett Morris and James McKinna.
+\newblock Abstracting extensible data types: or, rows by any other name.
+\newblock \emph{Proc. {ACM} Program. Lang.}, 3\penalty0 ({POPL}):\penalty0
+  12:1--12:28, 2019.
+\newblock \doi{10.1145/3290325}.
+\newblock URL \url{https://www.youtube.com/watch?v=5rDfyB2udKA}.
+
+\bibitem[R{\'{e}}my(1989)]{Remy89}
+Didier R{\'{e}}my.
+\newblock Typechecking records and variants in a natural extension of {ML}.
+\newblock In \emph{Conference Record of the Sixteenth Annual {ACM} Symposium on
+  Principles of Programming Languages, Austin, Texas, USA, January 11-13,
+  1989}, pages 77--88. {ACM} Press, 1989.
+
+\bibitem[Sheard and Pasalic(2004)]{Sheard04}
+Tim Sheard and Emir Pasalic.
+\newblock Two-level types and parameterized modules.
+\newblock \emph{Journal of Functional Programming}, 14\penalty0 (5):\penalty0
+  547–587, 2004.
+\newblock \doi{10.1017/S095679680300488X}.
+
+\bibitem[Wadler(1998)]{Wadler98}
+Philip Wadler.
+\newblock The expression problem, 1998.
+\newblock URL
+  \url{https://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt}.
+
+\bibitem[Wand(1987)]{Wand87}
+Mitchell Wand.
+\newblock Complete type inference for simple objects.
+\newblock In \emph{Proceedings of the Symposium on Logic in Computer Science
+  {(LICS} '87), Ithaca, New York, USA, June 22-25, 1987}, pages 37--44. {IEEE}
+  Computer Society, 1987.
+
+\bibitem[Wand(1991)]{Wand91}
+Mitchell Wand.
+\newblock Type inference for record concatenation and multiple inheritance.
+\newblock \emph{Inf. Comput.}, 93\penalty0 (1):\penalty0 1--15, 1991.
+
+\end{thebibliography}

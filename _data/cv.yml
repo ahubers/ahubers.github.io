@@ -1,0 +1,53 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science
+      institution: The University of Iowa, Iowa City, Iowa
+      year: 2020-present
+    - title: B.A. in Computer Science and Mathematics
+      institution: Cornell College, Mount Vernon, IA
+      year: 2015
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      year: 2020-present
+      institution: The University of Iowa, Iowa City, IA
+      description:
+        - title: advisors
+          contents:
+            - J. Garrett Morris
+            - Aaron Stump
+    - title: Undergraduate Research Assistant
+      institution: Oregon State University, Corvallis, OR
+      year: 2013-2014
+      description:
+        - Supervised by Dr. BIll Smart
+        - Funded by NSF Research Experience for Undergraduates (REU) in Summer of 2014
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: VP of Engineering
+      year: 2015-2020
+      institution: <a href="getmyboat.com">getmyboat.com</a>
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2015-present
+      items: 
+        - Phi Beta Kappa
+    - year: 2011-2014
+      items: 
+        - Senior Computer Science Achievement Award, Cornell College
+        - Ed Hill Mathematics Scholar
+        - Alice R. Betts Award
+        - Luther Claborn Memorial Award
+
+- title: Certifications
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - The University of Iowa <a href="https://education.uiowa.edu/areas-study/continuing-education/certificates-and-endorsements/certificate-college-teaching">Certificate in College Teaching.</a>
