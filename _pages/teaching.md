@@ -39,11 +39,11 @@ nav_order: 5
 <h2 class="bibliography">2020</h2>
   <div class="row">
     <div class="col-sm-2"> 
-      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="/assets/img/dall-e/plc-3.png" width="100" height="100"/>
+      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="/assets/img/dall-e/data-science-2.png" width="100" height="100"/>
   	</picture>
   	</figure>
     </div>
-    <div class="col-sm-8"> STA:223–Introduction to Data Science, Cornell College. Fall 2020. <b>Co-instructor</b> with Ann Cannon.
+    <div class="col-sm-8">STA:223–Introduction to Data Science, Cornell College. Fall 2020. <b>Co-instructor</b> with Ann Cannon.
  </div>
 	</div>
 </div>
