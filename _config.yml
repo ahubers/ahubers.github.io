@@ -16,8 +16,8 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: λ  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ahubers.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+url: https://homepage.cs.uiowa.edu # the base hostname & protocol for your site
+baseurl: /~ahubers/ # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -84,7 +84,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Alexander-Hubers
+research_gate_profile: #
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL

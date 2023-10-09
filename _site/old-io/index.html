@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Alex Hubers</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Alex Hubers</h1>
+</header>
+<p style="text-align:center;">
+<img style="border-radius: 50%" src="https://cs.uiowa.edu/sites/cs.uiowa.edu/files/styles/square__768_x_768/public/2021-06/alexander_hubers.jpg?h=cb5f1436&itok=i8anvSFS" width="200" height="200">
+</p>
+<h1 id="my-name-is-alex-hubers-and">My name is Alex Hubers, and</h1>
+<p>I am getting a PhD in Computer Science at the University of Iowa,
+where I’m a member of the <a
+href="https://clc.cs.uiowa.edu/site/">Computational Logic Center</a>. I
+like (functional) programming languages, semantics, and type theory.</p>
+
+
+<h1 id="research-agenda">Research Agenda</h1>
+<p>My active research interest is in expressing <a
+href="https://arxiv.org/abs/2307.08759">extensible data types</a> using
+<a href="https://dl.acm.org/doi/10.1145/3290325">row types</a> (with
+Dr. J. Garrett Morris, Co-Advisor). My current work is in expanding the
+expressivity of <a href="https://arxiv.org/abs/2307.08759">System
+Rω</a>, a higher-order row calculus with label-generic combinators. In
+laymen’s terms: I am interested in saving programmer time by making
+statically-typed code more reusable.</p>
+<p>I am also very interested in:</p>
+<ul>
+<li>various applications of row type systems, e.g. <a
+href="https://homepages.inf.ed.ac.uk/slindley/papers/fst-extended.pdf">session
+types</a>, and <a
+href="https://dl.acm.org/doi/10.1145/2976022.2976033">algebraic effects
+&amp; handlers</a>;</li>
+<li>language mechanization in Agda, by way of both <a
+href="https://github.com/IaFP/ROmega-ICFP23">shallow embeddings</a>
+(with denotational semantics) and <a
+href="https://github.com/IaFP/System-F-to-R-Omega/">deep embeddings</a>
+(with operational semantics);</li>
+<li>using <a
+href="https://github.com/astump/dc-recursion-examples">Mendler-style
+recursion schemes</a> to enforce <em>type-based</em> termination
+checking in total languages (e.g. <a
+href="https://dl.acm.org/doi/10.1145/3571196">Coq</a>);</li>
+<li>and the categorical semantics of (co-)recursive data types,
+particularly <a
+href="https://homepage.cs.uiowa.edu/~cwjnkins/assets/JFDMS20_Elaborating-CV-Induction.pdf">mendler-style
+recursion schemes</a>.</li>
+</ul>
+<h3 id="contact">Contact</h3>
+<p>My Base64 encoded email is</p>
+<pre><code>YWh1YmVyc0B1aW93YS5lZHU=</code></pre>
+<p>Humans can decode it it like this:</p>
+<pre><code>echo YWh1YmVyc0B1aW93YS5lZHU= | base64 --decode</code></pre>
+<p>or by googling “base 64 decoder” and using whatever pops up.</p>
+<h3 id="code">Code</h3>
+<p>Here is my <a href="https://github.com/ahubers">github</a>.</p>
+<h2 id="writing-publications">Writing &amp; Publications</h2>
+<p>My <a
+href="https://scholar.google.com/citations?hl=en&amp;user=UpiTEIMAAAAJ">Google
+Scholar</a> and <a
+href="https://dblp.uni-trier.de/pid/331/4622.html">DBLP</a>.</p>
+<h3 id="in-programming-languages-pl">In Programming Languages (PL)</h3>
+<ul>
+<li><strong>Generic Programming With Extensible Data Types; Or, Making
+Ad Hoc Extensible Data Types Less Ad Hoc.</strong> Alex Hubers, J.
+Garrett Morris. <em>Proceedings of the 28th ACM SIGPLAN International
+Conference on Functional Programming (ICFP 23).</em> <a
+href="https://arxiv.org/abs/2307.08759">PDF</a> &amp; <a
+href="https://github.com/IaFP/ROmega-ICFP23">artifact</a>.</li>
+<li><strong>A Type-Based Approach to Divide-And-Conquer Recursion in
+Coq.</strong> Pedro Abreu, Benjamin Delaware, Alex Hubers, Christa
+Jenkins, J. Garrett Morris, Aaron Stump. <em>Proceedings of the 50th ACM
+SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL
+23)</em>. <a href="https://ahubers.github.io/dc-recursion.pdf">PDF</a>
+&amp; <a
+href="https://doi.org/10.5281/zenodo.7305612">artifact</a>.</li>
+<li><strong>Partial type constructors in practice.</strong> Apoorv
+Ingle, Alex Hubers, and J. Garrett Morris. 2022. <em>Proceedings of the
+15th ACM SIGPLAN International Haskell Symposium (Haskell 2022)</em>. <a
+href="https://doi.org/10.1145/3546189.3549923">doi</a></li>
+</ul>
+<h3 id="in-human-robot-interaction-hri">In Human-Robot Interaction
+(HRI)</h3>
+<ul>
+<li><strong>Sketched floor plans versus SLAM maps: A
+comparison.</strong> Bowen-Biggs, L., Dazo, S., Zhang, Y., Hubers, A.,
+Rueben, M., Sowell, R. T., Smart, W. D., &amp; Grimm, C. (2016). <a
+href="https://arxiv.org/abs/1606.04836">arxiv:1606.04836</a></li>
+<li><strong>Using Video Manipulation to Protect Privacy in Remote
+Presence Systems</strong> Hubers, A. et al. (2015). <em>In: Tapus, A.,
+Andre, E., Martin, JC., Ferland, F., Ammi, M. (eds) Social Robotics
+(ICSR 2015)</em>. Lecture Notes in Computer Science(), vol 9388.
+Springer, Cham. <a
+href="https://arxiv.org/abs/1501.03188">arXiv:1501.03188</a></li>
+</ul>
+<h3 id="technical-reports">Technical Reports</h3>
+<ul>
+<li><a
+href="https://ahubers.github.io/Pure-Functional-Encodings-of-the-Expression-Problem.pdf">Pure
+Functional Encodings of the Expression Problem</a>. Qualifying Exam
+Report (Spring 2022).</li>
+<li><a href="https://ahubers.github.io/comp.pdf">Records, Variants, and
+Row Types</a>. Comprehensive exam (Fall 2023).</li>
+</ul>
+<h1 id="teaching">Teaching</h1>
+<h2 id="courses-taught-assisted">Courses Taught &amp; Assisted</h2>
+<ul>
+<li>Fall ’22. <strong>Teaching Assistant</strong> for CS:3820 -
+Programming Language Concepts, University of Iowa.</li>
+<li>Fall ’21. <strong>Teaching Assistant</strong> for CS:3820 -
+Programming Language Concepts, University of Iowa.</li>
+<li>Spring ’21. <strong>Teaching Assistant</strong> for CS:3820 -
+Programming Language Concepts, University of Iowa.</li>
+<li>Fall ’20. <strong>Co-Instructor</strong> for STA:223 - Introduction
+to Data Science, Cornell College.</li>
+</ul>
+</body>
+</html>
