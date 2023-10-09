@@ -12,7 +12,7 @@ nav_order: 5
   <h2 class="bibliography">2022</h2>
   <div class="row">
     <div class="col-sm-2"> 
-      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="/assets/img/dall-e/plc-1.png" width="100" height="100"/>
+      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="{{ site.baseurl }}assets/img/dall-e/plc-1.png" width="100" height="100"/>
   	</picture>
   	</figure>
     </div>
@@ -21,7 +21,7 @@ nav_order: 5
  <h2 class="bibliography">2021</h2>
   <div class="row">
     <div class="col-sm-2"> 
-      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="/assets/img/dall-e/plc-2.png" width="100" height="100"/>
+      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="{{ site.baseurl }}/assets/img/dall-e/plc-2.png" width="100" height="100"/>
   	</picture>
   	</figure>
     </div>
@@ -29,7 +29,7 @@ nav_order: 5
 	</div></div>
   <div class="row">
     <div class="col-sm-2"> 
-      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="/assets/img/dall-e/plc-3.png" width="100" height="100"/>
+      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="{{ site.baseurl }}/assets/img/dall-e/plc-3.png" width="100" height="100"/>
   	</picture>
   	</figure>
     </div>
@@ -39,7 +39,7 @@ nav_order: 5
 <h2 class="bibliography">2020</h2>
   <div class="row">
     <div class="col-sm-2"> 
-      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="/assets/img/dall-e/data-science-2.png" width="100" height="100"/>
+      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="{{ site.baseurl }}/assets/img/dall-e/data-science-2.png" width="100" height="100"/>
   	</picture>
   	</figure>
     </div>
