@@ -16,7 +16,7 @@ nav_order: 5
   	</picture>
   	</figure>
     </div>
-    <div class="col-sm-8"> CSC:347–Automata, Formal Languages, and Complexity, Grinnell College. Spring 2024. <b>Instructor</b>. </div>
+    <div class="col-sm-8"> CSC:347–Automata, Formal Languages, and Computational Complexity. Grinnell College. Spring 2024. <b>Instructor</b>. </div>
   </div>
   <h2 class="bibliography">2022</h2>
   <div class="row">
@@ -25,7 +25,7 @@ nav_order: 5
   	</picture>
   	</figure>
     </div>
-    <div class="col-sm-8"> CS:3820–Programming Language Concepts, The University of Iowa. Fall 2022. <b>Teaching assistant</b> to J. Garrett Morris. </div>
+    <div class="col-sm-8"> CS:3820–Programming Language Concepts. The University of Iowa. Fall 2022. <b>Teaching assistant</b> to J. Garrett Morris. </div>
   </div>
  <h2 class="bibliography">2021</h2>
   <div class="row">
@@ -34,7 +34,7 @@ nav_order: 5
   	</picture>
   	</figure>
     </div>
-    <div class="col-sm-8"> CS:3820–Programming Language Concepts, The University of Iowa. Fall 2021.  <b>Teaching assistant</b> to J. Garrett Morris.
+    <div class="col-sm-8"> CS:3820–Programming Language Concepts. The University of Iowa. Fall 2021.  <b>Teaching assistant</b> to J. Garrett Morris.
 	</div></div>
   <div class="row">
     <div class="col-sm-2"> 
@@ -42,7 +42,7 @@ nav_order: 5
   	</picture>
   	</figure>
     </div>
-    <div class="col-sm-8"> CS:3820–Programming Language Concepts, The University of Iowa. Spring 2021. <b>Teaching assistant</b> to Aaron Stump. </div>
+    <div class="col-sm-8"> CS:3820–Programming Language Concepts. The University of Iowa. Spring 2021. <b>Teaching assistant</b> to Aaron Stump. </div>
 	</div>
 
 <h2 class="bibliography">2020</h2>
@@ -52,7 +52,7 @@ nav_order: 5
   	</picture>
   	</figure>
     </div>
-    <div class="col-sm-8">STA:223–Introduction to Data Science, Cornell College. Fall 2020. <b>Co-instructor</b> with Ann Cannon.
+    <div class="col-sm-8">STA:223–Introduction to Data Science. Cornell College. Fall 2020. <b>Co-instructor</b> with Ann Cannon.
  </div>
 	</div>
 </div>
