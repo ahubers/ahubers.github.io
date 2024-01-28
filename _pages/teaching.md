@@ -9,6 +9,15 @@ nav_order: 5
 
 <div class="container mt-5">
 <div class="publications">
+  <h2 class="bibliography">2024</h2>
+  <div class="row">
+    <div class="col-sm-2"> 
+      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="{{ site.baseurl }}assets/img/csc341.jpeg" width="100" height="100"/>
+  	</picture>
+  	</figure>
+    </div>
+    <div class="col-sm-8"> CSC:347–Automata, Formal Languages, and Complexity, Grinnell College. Spring 2024. <b>Instructor</b>. </div>
+  </div>
   <h2 class="bibliography">2022</h2>
   <div class="row">
     <div class="col-sm-2"> 
