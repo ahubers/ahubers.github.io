@@ -1,0 +1,45 @@
+.member {
+  display: flex;
+  margin: $sp-4 0;
+
+  .member-image {
+    border-radius: 50%;
+    height: 100px;
+    margin-right: $sp-4;
+    width: auto;
+  }
+
+  .anchor-heading {
+    right: auto;
+    left: -$sp-5;
+  }
+
+  .member-name,
+  .member-meta,
+  p {
+    margin: 0 0 $sp-1 0;
+  }
+
+  .member-name {
+    @extend .d-inline-block;
+  }
+
+  .member-pronouns {
+    @extend .label, .text-grey-dk-300, .bg-grey-lt-000;
+
+    user-select: none;
+  }
+
+  .member-meta {
+    dt, dd, dd + dt {
+      margin-top: 0;
+    }
+  }
+
+  @include mq(sm) {
+    .member-meta {
+      display: grid;
+      grid-template-columns: auto 1fr;
+    }
+  }
+}

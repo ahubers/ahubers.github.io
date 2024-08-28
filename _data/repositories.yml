@@ -2,7 +2,7 @@ github_users:
   - ahubers
 
 artifacts:
+  - cvc5/cvc5/
   - iaFP/ROmega-ICFP23-artifact/
   - astump/dc-recursion-examples/
-  - iaFP/HM-in-Agda/
   - iaFP/ghc/

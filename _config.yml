@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: The Computational Logic Center | University of Iowa # the website title (if blank, full name will be used instead)
+title: The Computational Logic Center # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
 last_name:
@@ -166,22 +166,38 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 collections:
+  members:
+    output: true
+    layout: member
+    defaults:
+      layout: member
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
+defaults:
+  - scope:
+      path: ''
+      type: members
+    values:
+      layout: member
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+
+
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -424,3 +440,12 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false

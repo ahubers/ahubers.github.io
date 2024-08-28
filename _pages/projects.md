@@ -1,12 +1,15 @@
 ---
 layout: page
-permalink: /artifacts/
-title: artifacts
-description: The artifacts listed below accompany some of my publications.
+permalink: /projects/
+title: Projects
+description: Funded Projects & Grants.
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 
+doo doo doo.
+
+## Popular Repositories 
 {% if site.data.repositories.artifacts %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.artifacts %}
