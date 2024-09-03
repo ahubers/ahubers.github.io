@@ -1,3 +1,6 @@
+---
+template: none
+---
 <div class="member">
   {%- if page.photo -%}
   <img class="member-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="" width="{{ page.width }}" height="{{ page.height }}">
@@ -10,19 +13,33 @@
       {{ page.name }}
       {%- endif -%}
     </h3>
+
     {%- if page.pronouns -%}
     <p class="member-pronouns">{{ page.pronouns }}</p>
     {%- endif -%}
+
     {%- if page.email -%}
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
     {%- endif -%}
-    {%- if page.meta -%}
-    <dl class="member-meta">
-      {%- for meta in page.meta -%}
-      <dt>{{ meta[0] }}</dt>
-      <dd>{{ meta[1] | markdownify }}</dd>
-      {%- endfor -%}
-    </dl>
+
+    {%- if page.subrole -%}
+    <p></strong>{{page.subrole}}</strong></p>
     {%- endif -%}
+
+    {%- if page.advisor -%}
+    <p><strong>Advisor:</strong> {{page.advisor}}</p>
+    {%- endif -%}
+    {%- if page.interests -%}
+    <p><strong>Research Interests:</strong> {{page.interests}}</p>
+    {%- endif -%}
+
+    <!-- <dl class="member-meta"> -->
+    <!--   {%- for meta in page.meta -%} -->
+    <!--   <dt>{{ meta[0] }}</dt> -->
+    <!--   <dd>{{ meta[1] | markdownify }}</dd> -->
+    <!--   {%- endfor -%} -->
+    <!-- </dl> -->
+
+    {{content}}
   </div>
 </div>

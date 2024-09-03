@@ -173,7 +173,6 @@ collections:
       height: 300
       width: 300
       subpath: '/assets/images/'
-
   news:
     defaults:
       layout: post
@@ -183,15 +182,10 @@ collections:
     output: true
     permalink: /projects/:path/
 
-# defaults:
-#   - scope:
-#       path: ''
-#       type: members
+# - scope:
+#     path: /members/
 #     values:
-#       layout: member
-#       height: 300
-#       subpath: '/assets/images/'
-#       width: 300
+#       layout: none
 
 
 announcements:
