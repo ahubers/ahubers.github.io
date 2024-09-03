@@ -20,7 +20,7 @@ nav_order: 1
 
 {% assign members = site.members | where: 'role', 'Graduate Student' %}
 {% for member in members %}
-{{ member.url }}
+{{ member }}
 {% endfor %}
 
 

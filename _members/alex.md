@@ -5,4 +5,6 @@ role: Graduate Student
 email: ahubers@uiowa.edu
 website: https://ahubers.github.io
 photo: alex.jpg
+layout: member
+subpath: '/assets/img/'
 ---

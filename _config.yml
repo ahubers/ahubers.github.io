@@ -23,6 +23,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 
 # -----------------------------------------------------------------------------
 # Theme
+
 # -----------------------------------------------------------------------------
 
 # code highlighter theme
@@ -167,10 +168,12 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 collections:
   members:
-    output: true
-    layout: member
     defaults:
       layout: member
+      height: 300
+      width: 300
+      subpath: '/assets/images/'
+
   news:
     defaults:
       layout: post
@@ -180,15 +183,15 @@ collections:
     output: true
     permalink: /projects/:path/
 
-defaults:
-  - scope:
-      path: ''
-      type: members
-    values:
-      layout: member
-      height: 300
-      subpath: '/assets/images/'
-      width: 300
+# defaults:
+#   - scope:
+#       path: ''
+#       type: members
+#     values:
+#       layout: member
+#       height: 300
+#       subpath: '/assets/images/'
+#       width: 300
 
 
 announcements:
