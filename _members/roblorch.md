@@ -1,6 +1,6 @@
 ---
 name: Rob Lorch
-pronouns: 
+pronouns: he/him
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: Cesare Tinelli
