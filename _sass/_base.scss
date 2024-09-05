@@ -24,6 +24,7 @@ hr {
 }
 
 table {
+
   td,
   th {
     font-size: 1rem;
@@ -32,6 +33,10 @@ table {
   th {
     font-weight: bold;
   }
+}
+
+.news table.table {
+  color: var(--global-text-color) !important;
 }
 
 a,
