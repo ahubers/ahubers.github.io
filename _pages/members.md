@@ -9,25 +9,31 @@ nav_order: 1
 
 ## Professors
 
+<div class="row">
 {% assign members = site.members | where: 'role', 'Professor' %}
 {% for member in members %}
 {{ member | slice: 106, 1000 }} <!-- HACK! -->
 {% endfor %}
+</div>
 
 ## Research Scientists & Postdoctoral Scholars
 
+<div class="row">
 {% assign members = site.members | where: 'role', 'Research Scientist' %}
 {% for member in members %}
 {{ member | slice: 106, 1000 }} <!-- HACK! -->
 {% endfor %}
+</div>
 
 
 ## Graduate Students
 
+<div class="row">
 {% assign members = site.members | where: 'role', 'Graduate Student' %}
 {% for member in members %}
 {{ member | slice: 106, 1000 }} <!-- HACK! -->
 {% endfor %}
+</div>
 
 
 
