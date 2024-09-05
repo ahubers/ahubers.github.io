@@ -4,10 +4,10 @@ pronouns:
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: Cesare Tinelli
-interests: addme
-email: addme
-website: addme
-photo: 
+interests: Automated Reasoning, Security
+email: robert-lorch@uiowa.edu
+website: https://lorchrob.github.io
+photo: rob.jpg
 layout: member
 subpath: '/assets/img/'
 ---
