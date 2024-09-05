@@ -4,10 +4,10 @@ pronouns: he/him
 role: Graduate Student
 subrole: Ph.D. Student
 advisor: J. Garrett Morris
-interests: addme
-email: addme
-website: addme
-photo: 
+interests: Programming Languages, Type Systems
+email: apoorv-ingle@uiowa.edu
+website: cs.uiowa.edu/~aningle
+photo: apoorv.jpeg
 layout: member
 subpath: '/assets/img/'
 ---
