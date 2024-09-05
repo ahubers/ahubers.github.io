@@ -38,9 +38,9 @@ nav_order: 1
 
 
 ## Recent Alumni
-- [Arjun Viswanathan, Ph.D. '24](https://homepage.cs.uiowa.edu/~viswanathn/). *Some college in the Northeast.*
-- [Andrew Marmaduke, Ph.D. '24](https://uiowa.marmamorphism.com/#:~:text=Andrew%20Marmaduke). *Postdoctoral scholar at University of Iowa.*
-- [Christa Jenkins, Ph.D. '23](https://cwjnkins.github.io/#:~:text=Postdoctoral). *Postdoctoral associate at Stony Brook University.*
+- [Arjun Viswanathan, Ph.D. '24](https://homepage.cs.uiowa.edu/~viswanathn/). *Union College, Schenectady, NY*
+- [Andrew Marmaduke, Ph.D. '24](https://uiowa.marmamorphism.com/#:~:text=Andrew%20Marmaduke). *Postdoctoral scholar at University of Iowa, Iowa City, IA*
+- [Christa Jenkins, Ph.D. '23](https://cwjnkins.github.io/#:~:text=Postdoctoral). *Postdoctoral associate at Stony Brook University, Stony Brook, NY*
 
 ## Former members
 See our [alumni page]({{ '/alumni/' | relative_url }}) for a full archive of alumni and former staff.
