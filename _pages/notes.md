@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /notes/
-title: publications
+title: notes
 description: Notes and miscellanea.
-nav: true
-nav_order: 5
+nav: false
+nav_order: 6
 ---
 ### Notes
-- [The Yoneda Lemma for the Functional Programmer]({{ '/assets/yoneda.pdf' | relative_url }})
+- [The Yoneda Lemma for the Functional Programmer]({{ '/assets/pdf/yoneda.pdf' | relative_url }})
