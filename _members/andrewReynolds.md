@@ -1,12 +1,12 @@
 ---
 name: Andrew Reynolds
-pronouns:
+pronouns: he/him
 role: Research Scientist
 subrole: Research Scientist
-interests: addme
-email: addme
-website: addme
-photo: 
+interests: SMT, Automated Theorem Proving, Synthesis
+email: andrew-reynolds@uiowa.edu
+website: https://homepage.cs.uiowa.edu/~ajreynol/
+photo: ajr-2014.jpg
 layout: member
 subpath: '/assets/img/'
 ---
