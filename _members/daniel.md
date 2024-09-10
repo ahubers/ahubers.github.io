@@ -1,12 +1,12 @@
 ---
 name: Daniel Larraz
-pronouns: 
+pronouns: he/him
 role: Research Scientist
 subrole: Research Scientist
-interests: addme
-email: addme
-website: addme
-photo: 
+interests: Formal Verification, Automated Reasoning
+email: daniel-larraz@uiowa.edu
+website: https://daniel-larraz.github.io/
+photo: daniel.jpg
 layout: member
 subpath: '/assets/img/'
 ---
