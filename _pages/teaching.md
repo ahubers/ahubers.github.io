@@ -12,7 +12,7 @@ nav_order: 5
   <h2 class="bibliography">2024</h2>
   <div class="row">
     <div class="col-sm-2"> 
-      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="/assets/img/csc341.jpeg" width="100" height="100"/>
+      <figure><picture><img class="preview z-depth-1 rounded medium-zoom-image" src="{{ site.baseurl }}/assets/img/csc341.jpeg" width="100" height="100"/>
   	</picture>
   	</figure>
     </div>
