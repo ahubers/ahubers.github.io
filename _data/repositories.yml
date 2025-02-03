@@ -2,7 +2,6 @@ github_users:
   - ahubers
 
 artifacts:
-  - iaFP/ROmega-ICFP23-artifact/
+  - IowaFP/ROmega-ICFP23-artifact/
   - astump/dc-recursion-examples/
-  - iaFP/HM-in-Agda/
-  - iaFP/ghc/
+  - iowaFP/ghc/
