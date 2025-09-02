@@ -7,6 +7,7 @@
     "BowenBiggsDZHRSSG16"
     "IngleHM22"
     "HubersM23"
-    "AbreuDHJMS23"))
+    "AbreuDHJMS23"
+    "AbreuBCDHJMS25"))
  :bibtex)
 
