@@ -1,7 +1,11 @@
 ## Configuration
 
+<<<<<<< HEAD
 Branch `main` is configured for ahubers.github.io and localhost. Branch `uiowa` is configured for pushes to UI homepage. 
 
+=======
+Branch `main` is configured for ahubers.github.io and localhost. Branch `uiowa` is configured for pushes to UI homepage. Site is at `localhost:8080`.
+>>>>>>> main
 
 ## To run locally
 Checkout `main` and:
