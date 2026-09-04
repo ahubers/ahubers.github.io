@@ -19,5 +19,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a doctoral candidate in Computer Science at the University of Iowa, where I'm a
-member of the [Computational Logic Center](https://clc.cs.uiowa.edu/site/), advised by Dr. [J. Garrett Morris](https://jgbm.github.io/). I like programming languages, type theory, and language mechanization.
+I am a doctoral candidate in Computer Science at the University of Iowa, where I'm a member of the [Computational Logic Center](https://clc.cs.uiowa.edu/site/), advised by Dr. [J. Garrett Morris](https://jgbm.github.io/). I like programming languages, type theory, and language mechanization. <!-- I like to write about type theory, category theory, and semantics on my [blog](/blog). I try to make these posts accessible.  -->
