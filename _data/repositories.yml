@@ -4,4 +4,8 @@ github_users:
 artifacts:
   - IowaFP/ROmega-ICFP23-artifact/
   - astump/dc-recursion-examples/
-  - iowaFP/ghc/
+  - iowaFP/rosi/
+  - iowaFP/CategoriesInAgda/
+  - CLC-UIowa/HoTT/
+  - iowaFP/HindleyMilnerInAgda
+

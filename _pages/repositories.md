@@ -2,7 +2,7 @@
 layout: page
 permalink: /artifacts/
 title: artifacts
-description: The artifacts listed below accompany some of my publications.
+description: Listed below are pet projects and artifacts that accompany some of my publications.
 nav: true
 nav_order: 3
 ---
