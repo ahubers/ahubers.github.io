@@ -14,7 +14,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: λ  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.webp  # the emoji used as the favicon (alternatively, provide image name in /assets/img/) 
 
 url: https://ahubers.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -91,7 +91,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
+wikipedia_id: getoffmyboat
 dblp_url: https://dblp.org/pid/331/4622.html
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
